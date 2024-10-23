@@ -1,0 +1,153 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f09a9a;
+}
+
+.login-container {
+    width: 300px;
+    margin: 100px auto;
+    background-color: #e478b7;
+    padding: 20px;
+    border: 1px solid #979494;
+    border-radius: 5px;
+}
+
+h2 {
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input {
+    width: 94%;
+    padding: 8px;
+    margin: 8px 0;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #fda5d9;
+}
+
+#error-message {
+    color: red;
+    text-align: center;
+}
+/* Header and Navigation */
+.header {
+    background-color: #007BFF;
+    color: white;
+    padding: 15px;
+    text-align: left;
+}
+
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav li {
+    display: inline;
+    margin-right: 15px;
+}
+
+.nav li a {
+    color: white;
+    text-decoration: none;
+}
+
+.banner {
+    width: 100%;
+    height: 200px;
+    background-color: #ddd;
+    position: relative;
+}
+
+.slider img {
+    width: 100%;
+    height: 200px;
+}
+
+.content {
+    padding: 20px;
+}
+
+.footer {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+/* Header and Navigation */
+.header {
+    background-color: #007BFF;
+    color: white;
+    padding: 15px;
+    text-align: left;
+}
+
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav li {
+    display: inline;
+    margin-right: 15px;
+}
+
+.nav li a {
+    color: white;
+    text-decoration: none;
+}
+
+.content {
+    padding: 20px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input, select {
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 5px;
+}
+
+button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+footer {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+#error-message {
+    color: red;
+}
